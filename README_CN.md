@@ -1,0 +1,7 @@
+[日本語](README.md) / [English](README_EN.md)
+
+# 猫咪社
+<img width="200" src="https://raw.githubusercontent.com/catsapp-rs/catsapp-rs/refs/heads/main/logo.png" />
+为其猫咪所开发的社交平台
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=catsapp-rs&show_icons=true&locale=en&layout=compact)
