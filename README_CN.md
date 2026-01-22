@@ -9,3 +9,4 @@
 * [iOS客户端](https://github.com/catsapp-rs/iOS_Client)
 * 安卓客户端
 * [后端（backend）](https://github.com/catsapp-rs/backend)
+* [管理界面 ](https://github.com/catsapp-rs/Manager)
