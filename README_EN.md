@@ -9,3 +9,4 @@ Social media for cats
 * [iOS Client](https://github.com/catsapp-rs/iOS_Client)
 * Android Client
 * [backend](https://github.com/catsapp-rs/backend)
+* [Management Portal](https://github.com/catsapp-rs/Manager)
