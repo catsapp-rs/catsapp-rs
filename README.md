@@ -10,3 +10,6 @@
 * Android クライアント
 * [バックエンド](https://github.com/catsapp-rs/backend)
 * [管理画面](https://github.com/catsapp-rs/Manager)
+
+-----
+[iOSアプリ（Testflight）](https://testflight.apple.com/join/q3my4UWs)
