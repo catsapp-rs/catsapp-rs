@@ -10,3 +10,10 @@ Social media for cats
 * Android Client
 * [backend](https://github.com/catsapp-rs/backend)
 * [Management Portal](https://github.com/catsapp-rs/Manager)
+
+-----
+🏫 [HAL Student Works Page](https://ewp.hal.ac.jp/product/ohs50754/大阪PI002)
+
+📲 [iOS App(Testflight)](https://testflight.apple.com/join/q3my4UWs)
+
+🌐 [WebSite](https://cat.rs6apps.com)
