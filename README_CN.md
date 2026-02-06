@@ -9,4 +9,11 @@
 * [iOS客户端](https://github.com/catsapp-rs/iOS_Client)
 * 安卓客户端
 * [后端（backend）](https://github.com/catsapp-rs/backend)
-* [管理界面 ](https://github.com/catsapp-rs/Manager)
+* [管理界面](https://github.com/catsapp-rs/Manager)
+
+-----
+🏫 [就业作品演示（HAL）](https://ewp.hal.ac.jp/product/ohs50754/大阪PI002)
+
+📲 [苹果APP（TestFlight）](https://testflight.apple.com/join/q3my4UWs)
+
+🌐 [官方网站](https://cat.rs6apps.com)
