@@ -12,4 +12,6 @@
 * [管理画面](https://github.com/catsapp-rs/Manager)
 
 -----
-[iOSアプリ（Testflight）](https://testflight.apple.com/join/q3my4UWs)
+🏫 [就職作品プレゼンテーション（HAL）](https://ewp.hal.ac.jp/product/ohs50754/大阪PI002)
+
+📲 [iOSアプリ（Testflight）](https://testflight.apple.com/join/q3my4UWs)
