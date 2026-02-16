@@ -2,7 +2,11 @@
 
 # CatsApp
 <img width="200" src="https://raw.githubusercontent.com/catsapp-rs/catsapp-rs/refs/heads/main/logo.png" />
-猫のためのSNS
+<strong>全ては猫のために。</strong><br>
+投稿が猫語に変換される新感覚SNS。<br>
+抗争や対立から離れ、猫に癒され猫になるプラットフォーム。<br>
+フォロワーや拡散を気にせず使える、猫だけが流れる平和な世界。<br>
+ようこそ、猫のように気ままなSNSへ。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=catsapp-rs&show_icons=true&locale=en&layout=compact)
 
