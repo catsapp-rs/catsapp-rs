@@ -2,7 +2,11 @@
 
 # 猫咪社
 <img width="200" src="https://raw.githubusercontent.com/catsapp-rs/catsapp-rs/refs/heads/main/logo.png" />
-为其猫咪所开发的社交平台
+<strong>人人为猫</strong><br>
+一个将用户投稿转换为猫语的全新社交平台。<br>
+远离争斗与对立，被猫治愈，也成为猫的一员。<br>
+无需在意粉丝和传播，只有猫在流动的和平世界。<br>
+欢迎来到像猫一样自由随性的社交平台。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=catsapp-rs&show_icons=true&locale=en&layout=compact)
 
